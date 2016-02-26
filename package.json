@@ -1,0 +1,22 @@
+{
+  "name": "who-am-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oksas/request-header-parser.git"
+  },
+  "author": "John Oksasoglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oksas/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/oksas/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
